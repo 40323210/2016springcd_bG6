@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Bg10'
+AUTHOR = 'Bg6'
 SITENAME = 'CDW11 網頁 (虎尾科大MDE)'
-SITEURL = 'https://40328242.github.io/2016springcd_bG10/static/'
+SITEURL = 'https://40323248.github.io/2016springcd_bG6/static/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
