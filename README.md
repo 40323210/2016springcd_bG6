@@ -1,4 +1,4 @@
-﻿# 2016springcd_bG10
+﻿# 2016springcd_bG6
 Pelican: 
 
 40323248 w18-2D繪圖報告 : https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-1bao-gao.html
