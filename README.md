@@ -1,2 +1,4 @@
 # 2016springcd_bG6
-http://bg6cdw11-40323210.rhcloud.com/static/blog/
+Pelican:
+
+40323248 : https://40323248.github.io/2016springcd_bG6/static/blog/
