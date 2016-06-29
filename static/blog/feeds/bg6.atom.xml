@@ -1,74 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/" rel="alternate"></link><link href="https://40323210.github.io/2016springcd_bG6/static/blog/feeds/bg6.atom.xml" rel="self"></link><id>https://40323210.github.io/2016springcd_bG6/static/blog/</id><updated>2016-06-28T23:31:56+08:00</updated><entry><title>40323211 w18-3報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-28T23:31:56+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323211-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
-
-&lt;h3&gt;期末總結&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;這學期的課程讓我對繪圖程式有更多的了解，從一開始用solvespace分析所畫出的圖形，然後導入到2D的網頁上，還有3D onshape的齒輪設計，學習當齒輪產生干涉時須利用哪些方法來修正，如果能更認真一點學，我覺得收穫一定會更多。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h3&gt;onshape&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/M5Ffo3m.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h3&gt;自製2D繪圖&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/JH9hThH.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把之前的語法拿來用，然後把畫好的solvespace轉乘2D section，用Scite打開，然後將中心資料放到對應位置，然後用localhost在網頁上看，達到2D網際繪圖的目的。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h3&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/yFrXf93.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;首先在onshape上導入齒輪，然後建立出底板與中心軸柱，將齒輪與柱子搭配，然後要去計算柱子之間的距離，如果需要調整衝突則需去offset設定，最後根據上述的搭配讓齒輪順暢轉動。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h3&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/aBB6lVO.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;正齒輪的嚙合需要精準的計算，然後搭配參數的變化來加以分析。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;
-&lt;h3&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/jeSOBDg.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;自行車傳動鏈條經由solvespace的分析，藉由得到的數值再來畫出，然後三個正齒輪則更改為可調式參數。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry><entry><title>40323211 w18-2報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-28T23:31:56+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323211-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
-
-&lt;h3&gt;onshape&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/M5Ffo3m.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;老師所給的齒數讓我們必須去分析如何才能不干涉，而組裝的過程與之前的步驟相同，比較有困難的是如何調整轉動多少齒來解決干涉。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry><entry><title>40323211 w18-1報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-28T23:31:56+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323211-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
-
-&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
-&lt;img src="http://i.imgur.com/JH9hThH.png"&gt;
-&lt;br/&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;這個2D部分的步驟與之前cdw2類似，把之前的語法拿來用，然後把畫好的solvespace轉乘2D section，用Scite打開，然後將中心資料放到對應位置，然後用localhost在網頁上看，達到2D網際繪圖的目的。&lt;/h3&gt;
-&lt;br/&gt;
-&lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry><entry><title>40323248 w18-3報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-28T22:51:21+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323248-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/" rel="alternate"></link><link href="https://40323210.github.io/2016springcd_bG6/static/blog/feeds/bg6.atom.xml" rel="self"></link><id>https://40323210.github.io/2016springcd_bG6/static/blog/</id><updated>2016-06-29T22:42:54+08:00</updated><entry><title>40323248 w18-3報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323248-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
 
 &lt;h3&gt;期末總結&lt;/h3&gt;
 &lt;br/&gt;
@@ -119,7 +50,7 @@
 &lt;h3&gt;計算鏈條傳動對應的兩個節圓, 所產生的 8 個相切點座標, 兩個圓均位於同軸上, 左側小齒盤 18 齒, 而右側大齒盤 30 齒,將兩條外切線與兩條內切線所對應的 8 個切點座標與左側圓之圓心座標，再利用 Solvespace 標示出符合兩圓相切線的內切線, 與對應左側圓心位置，我覺得最難的部分是利用Solvespace計算出座標位置，只要沒有配合好鏈條位置，鏈條就會整個錯位。一開始覺得非常複雜，但是後來再經過同學的教導下，慢慢學到許多步驟及方法，後來就越來越得心應手如何去做。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
-&lt;br/&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry><entry><title>40323248 w18-2報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-28T22:51:21+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323248-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry><entry><title>40323248 w18-2報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323248-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;onshape&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/d7wm4Qh.png"&gt;
@@ -128,7 +59,7 @@
 &lt;h3&gt;老師所給17.19.21.23.25等齒數讓我們必須去了解如何契合且不干涉，組裝的過程與之前onshape齒輪箱的步驟類似，最困難的就是兩齒輪得契合牽涉到齒輪壓力角、節圓直徑等，沒配合好就會相互干涉。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry><entry><title>40323248 w18-1報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-28T22:51:21+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-28:2016springcd_bG6/static/blog/40323248-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry><entry><title>40323248 w18-1報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323248-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323248</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323248-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
 
 &lt;h3&gt;自製2d繪圖&lt;/h3&gt;
 &lt;img src="http://i.imgur.com/97NdRhD.png"&gt;
@@ -137,4 +68,74 @@
 &lt;h3&gt;2D繪圖部分之步驟跟先前期中考前cdw2的倉儲類似，與之前語法類似，然後把畫好的solvespace轉成2D section檔案，用SCITE打開，然後將座標點放到對應位置，在cmd打wsgi.py然後用localhost在網頁確認是否完成，達到2D網際繪圖的目的。&lt;/h3&gt;
 &lt;br/&gt;
 &lt;h2&gt;自評分數&lt;/h2&gt;
-&lt;h3&gt;75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry></feed>
+&lt;h3&gt;75分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323248"></category></entry><entry><title>40323211 w18-3報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-3bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323211-w18-3bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :
+
+&lt;h3&gt;期末總結&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;這學期協同產品設計實習課，比前幾個學期的課程相比，更需要同學們互相配合，所以只要任何一位協同者發生操作失誤，也都會影響到其組員或與他協同的同學，在繪圖方面也學到許多與先前不同的方法，利用參數與圖形推算去安排圖的形狀，不在是傻傻的直接繪製出圖形，而是用比較智慧化的方式去推算，最重要的是從課程上學到了許多未來該有的觀點與想法，讓我覺得非常充實。
+&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/M5Ffo3m.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;在最後一周的課程中，在限定時間協同內完成Onshape 3D齒輪嚙和繪製與組裝，分工繪製齒輪，在各自將其組合完成。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;自製2D繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/JH9hThH.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;最後一周上課時段繪製solvespace 2D座標圖，這項目相對的比較簡單，在solvespace上繪製簡單的幾何圖形，在匯出座標圖檔就完成了。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;網際 3D 正齒輪傳動模擬 (一)&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/yFrXf93.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;用Onshape呼叫齒輪組並使其契合旋轉。利用齒數計算節圓直徑，算出他的切線與切線角度，以及調整角度偏差，計算時需要注意到一些小細節，否則有可能會出現齒輪組無法契合的現象。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;網際 2D 正齒輪傳動囓合繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/aBB6lVO.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;正齒輪的嚙合需要精準的計算，然後搭配參數的變化來加以分析。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;
+&lt;h3&gt;自行車傳動 2D 鏈條繪圖 (二)&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/jeSOBDg.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;2D齒輪 繪製時須注意齒輪與齒輪之間是否完全契合，若有干涉，再去調整中心距離與切線角度，把握這幾項重點，要繪製2D齒輪就不是那麼困難了。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;----------------------------------------------------------------------&lt;/h2&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry><entry><title>40323211 w18-2報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-2bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323211-w18-2bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;onshape&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/M5Ffo3m.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;在最後一周的課程中，在限定時間協同內完成Onshape 3D齒輪嚙和繪製與組裝，分工繪製齒輪，在各自將其組合完成。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry><entry><title>40323211 w18-1報告</title><link href="https://40323210.github.io/2016springcd_bG6/static/blog/40323211-w18-1bao-gao.html" rel="alternate"></link><updated>2016-06-29T22:42:54+08:00</updated><author><name>40323211</name></author><id>tag:40323210.github.io,2016-06-29:2016springcd_bG6/static/blog/40323211-w18-1bao-gao.html</id><summary type="html">&lt;p&gt;內容規畫 :&lt;br /&gt;
+
+&lt;h3&gt;自製2d繪圖&lt;/h3&gt;
+&lt;img src="http://i.imgur.com/JH9hThH.png"&gt;
+&lt;br/&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;最後一周上課時段繪製solvespace 2D座標圖，這項目相對的比較簡單，在solvespace上繪製簡單的幾何圖形，在匯出座標圖檔就完成了。&lt;/h3&gt;
+&lt;br/&gt;
+&lt;h2&gt;自評分數&lt;/h2&gt;
+&lt;h3&gt;70分&lt;/h3&gt;&lt;/p&gt;</summary><category term="40323211"></category></entry></feed>
